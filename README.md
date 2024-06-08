@@ -15,7 +15,7 @@ const jonathan = {
   architecture: ["microservices", "deep learning pipelines"],
   challenge: "I am working on a ML model for trapping images to better detect hares"
 }
-
+```
 ## Contact
 - [jonathanjkim5108@gmail.com]() on Gmail
 - [@JoeNathan5108]() on Discord
