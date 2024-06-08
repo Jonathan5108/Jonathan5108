@@ -5,7 +5,8 @@ I'm Jonathan Kim, a 21 years-old programmer from Maryland!
 [![Linkedin: jonathanjkim5108](https://img.shields.io/badge/-jonathanjkim5108-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanjkim5108/)](https://www.linkedin.com/in/jonathanjkim5108/)
 [![GitHub Jonathan](https://img.shields.io/github/followers/jonathanjkim5108?label=follow&style=social)](https://github.com/Jonathan5108)
 
-### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> My background - 
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"> 
+### My background - 
 ```javascript
 const jonathan = {
   pronouns: "he" | "him",
