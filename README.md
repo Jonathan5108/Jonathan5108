@@ -6,6 +6,9 @@ I'm Jonathan Kim, a 21 years-old programmer from Maryland!
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"> 
 
+### Who I am
+I'm a Computer Engineering graduate looking for a specialization in Machine Learning! Looking to pursue a Masters in 2025 and doing some passion projects in the mean time.
+
 ### My background - 
 ```javascript
 const jonathan = {
