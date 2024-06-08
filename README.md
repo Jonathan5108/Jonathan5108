@@ -6,6 +6,7 @@ I'm Jonathan Kim, a 21 years-old programmer from Maryland!
 [![GitHub Jonathan](https://img.shields.io/github/followers/jonathanjkim5108?label=follow&style=social)](https://github.com/Jonathan5108)
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"> 
+
 ### My background - 
 ```javascript
 const jonathan = {
@@ -16,6 +17,6 @@ const jonathan = {
   challenge: "I am working on a ML model for trapping images to better detect hares"
 }
 ```
-## Contact
+### Contact
 - [jonathanjkim5108@gmail.com]() on Gmail
 - [@JoeNathan5108]() on Discord
