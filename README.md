@@ -15,7 +15,7 @@ const jonathan = {
   code: [Python, C++, Java, JavaScript, Typescript],
   tools: [TensorFlow, PyTorch, Docker, Node, React],
   architecture: ["microservices", "deep learning pipelines"],
-  challenge: "I am working on a ML model for trapping images to better detect hares"
+  challenge: "Using a Breast Cancer labelled database with malignant/benign tumors to train a SVM classifier atm!"
 }
 ```
 ### Contact
